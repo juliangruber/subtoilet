@@ -1,6 +1,8 @@
 
 # subtoilet
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliangruber/subtoilet.svg)](https://greenkeeper.io/)
+
 Marrying [toiletdb](https://github.com/maxogden/toiletdb) and [level-sublevel](https://github.com/dominictarr/level-sublevel).
 
 Lets you operate on a subspace of the db using a value that has the same instance as the main toiletdb.
